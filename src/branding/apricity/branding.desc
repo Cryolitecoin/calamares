@@ -2,13 +2,13 @@
 componentName:  apricity
 
 strings:
-    productName:         Apricity OS
-    shortProductName:    Apricity
-    version:             11.2016 Birch
-    shortVersion:        Birch
-    versionedName:       Apricity OS 11.2016 Birch
-    shortVersionedName:  Apricity Birch
-    bootloaderEntryName: Apricity
+    productName:         CryoLinux
+    shortProductName:    CryoLinux
+    version:             1.0.0 Beta-Release
+    shortVersion:        Beta
+    versionedName:       CryoLinux 1.0.0 Beta-Release
+    shortVersionedName:  CryoLinux Beta
+    bootloaderEntryName: CryoLinux
 
 images:
     productLogo:         "squid.png"
